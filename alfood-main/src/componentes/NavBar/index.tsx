@@ -10,6 +10,12 @@ const NavBar = () => {
       <li>
         <Link to="/restaurantes">Restaurantes</Link>
       </li>
+      <li>
+        <Link to="/admin/restaurantes/novo">Cadastrar</Link>
+      </li>
+      <li>
+        <Link to="/admin/restaurantes">Administração</Link>
+      </li>
     </ul>
   </nav>)
 }
