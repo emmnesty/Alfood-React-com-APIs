@@ -7,7 +7,7 @@ import Rodape from '../../componentes/Rodape';
 function App() {
   return (
     <>
-
+      <NavBar />
       <Banner />
       <ListaRestaurantes />
       <Rodape />
