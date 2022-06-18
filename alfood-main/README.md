@@ -6,6 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+É necesário subir a API com o Docker.
+### `docker-compose up`
+
 ### `npm start`
 
 Runs the app in the development mode.\
