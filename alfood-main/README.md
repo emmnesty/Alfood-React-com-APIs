@@ -8,6 +8,9 @@ In the project directory, you can run:
 
 É necesário subir a API com o Docker.
 ### `docker-compose up`
+Por padrão vai rodar no localHost na porta 8000
+
+Para acessar a página de admin navegar para <a> http://localhost:3000/admin <a/>
 
 ### `npm start`
 
